@@ -1,4 +1,4 @@
-\# Task Manager
+# Task Manager
 
 
 
@@ -6,13 +6,14 @@ Simple task management system.
 
 
 
-\## Features
+## Features
 
-\- Basic task creation
+- Basic task creation
+
+- Priority management (low, medium, high)
 
 
-
-\## Installation
+## Installation
 
 ```bash
 
