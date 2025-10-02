@@ -10,3 +10,5 @@ Simple task management system.
 
 \- Basic task creation
 
+\- Priority management (low, medium, high)
+
