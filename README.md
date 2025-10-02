@@ -10,3 +10,11 @@ Simple task management system.
 
 \- Basic task creation
 
+
+
+\## Installation
+
+```bash
+
+pip install -r requirements.txt
+
